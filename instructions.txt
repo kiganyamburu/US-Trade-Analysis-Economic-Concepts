@@ -1,0 +1,55 @@
+Instructions: US Trade Analysis & Economic Concepts
+
+ 
+
+Part 1: Data Analysis
+
+Objective:
+
+Develop four (4) data tables and four (4) corresponding pie charts to illustrate United States trade statistics. You will analyze trade flows by both Industry Sector and Trading Partner.
+
+Requirements:
+
+Using data from a recent period (e.g., 2020–2024), create the following four deliverables. Each deliverable must include both a summary table and a pie chart.
+
+US Imports by Industrial Sector
+US Exports by Industrial Sector
+US Imports by Trading Partner (Top partners)
+US Exports by Trading Partner (Top partners)
+Formatting Guidelines:
+
+To ensure full credit, every chart must include:
+
+Descriptive Title: Clearly state what the chart represents (e.g., "Figure 1: Composition of US Exports by Industry Sector, 2023").
+Legends: Properly labeled legends that correspond to the data segments.
+Units of Measurement: Clearly indicate the currency and scale (e.g., "Millions of USD" or "Percentage of Total Trade").
+Data Source Citation: A clearly identified source at the bottom of each chart (e.g., “Source: FRED, Federal Reserve Bank of St. Louis” or “Source: US Bureau of Economic Analysis”).
+ 
+
+Part 2: Short Written Responses
+
+Generate  only 6 boxes  and post each question leaving it unanswered 
+
+Objective:
+
+Provide concise, well-reasoned answers to the following questions regarding international trade theory and policy.
+
+1. Historical Trends: How has the fundamental nature of United States trade evolved over the past 100 years? Discuss shifts in volume, composition, or partners.
+
+2. 
+Opportunity Cost: Define the concept of "opportunity cost" specifically as it applies to a country’s industrial policy. Provide concrete examples to illustrate your definition.
+
+3
+Advantage Types: Distinguish between a country’s absolute advantage and comparative advantage. Provide examples of each to demonstrate the difference.
+
+4
+Labor and Trade Policy:
+Do low-wage countries possess an "unfair" advantage in the production of goods?
+Should this wage disparity influence US trade policy?
+
+5
+Discussion Point: Explain how labor productivity should theoretically drive wage levels.
+Specialization: Under what circumstances, if ever, should a country focus on complete specialization (producing a strictly restricted range of products) to enhance efficiency?
+
+6
+Efficiency Types: Define and differentiate between allocative efficiency and productive efficiency. Provide specific examples for each concept.
