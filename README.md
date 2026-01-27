@@ -63,10 +63,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 _This project is for educational purposes to demonstrate economic concepts through US trade data analysis._
-_This project is for educational purposes to demonstrate economic concepts through US trade data analysis._
-_This project is for educational purposes to demonstrate economic concepts through US trade data analysis._
-_This project is for educational purposes to demonstrate economic concepts through US trade data analysis._
-_This project is for educational purposes to demonstrate economic concepts through US trade data analysis._
-_This project is for educational purposes to demonstrate economic concepts through US trade data analysis._
-_This project is for educational purposes to demonstrate economic concepts through US trade data analysis._
-_This project is for educational purposes to demonstrate economic concepts through US trade data analysis._
